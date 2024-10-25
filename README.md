@@ -1,4 +1,4 @@
-# SQL Queries:
+# Pizza Sales SQL Queries:
 
 1.  Calculate the total revenue generated from pizza sales.
 2.  Identify the most common pizza size ordered.
